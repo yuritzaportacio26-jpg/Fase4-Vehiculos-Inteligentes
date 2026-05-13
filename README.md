@@ -10,4 +10,4 @@ Proyecto desarrollado en Python utilizando Programación Orientada a Objetos (PO
 - Métodos y atributos
 
 ## Autor
-Yuri Paola Portacio Suárez
+Yuritza Paola Portacio Suárez
